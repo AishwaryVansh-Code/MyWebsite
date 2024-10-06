@@ -2,8 +2,8 @@
 <h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Aishwary Vansh</h1>
 
 
-![1728196060283-fotor-bg-remover-20241006115957](https://github.com/user-attachments/assets/c7d330f7-fb23-44eb-b183-9c7295078ee2)
 
+![1728196060283-fotor-bg-remover-202410061243](https://github.com/user-attachments/assets/9549075d-338e-426e-abf7-96955c481590)
 
 
 
