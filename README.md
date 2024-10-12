@@ -21,7 +21,7 @@ I'm eager to explore various facts of Tech industries.
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
   
   <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/aishwary-vansh-095893322/" style="color: #2980b9;">@Aishwary vansh</a></li>
-  <li><strong>Instagram</strong>: <a href="https://www.instagram.com/aishwary__vansh?utm_source=qr&igsh=MWlsdTlnMHhoZnZtbQ==/" style="color: #2980b9;">@aishwary__vansh</a></li>
+  <li><strong>Instagram</strong>: <a href="https://www.instagram.com/aishwary_vansh?igsh=MWlsdTlnMHhoZnZtbQ==" style="color: #2980b9;">@aishwary_vansh</a></li>
  
 </ul>
 
